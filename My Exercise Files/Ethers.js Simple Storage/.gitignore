@@ -1,0 +1,4 @@
+#these are things that will be ignored when pushing up to GitHub
+.env
+node_modules
+.encryptedKey.json
